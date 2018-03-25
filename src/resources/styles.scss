@@ -1,0 +1,8 @@
+@import "foundation-sites/scss/settings/settings";
+@import "foundation-sites/scss/foundation";
+
+@include foundation-global-styles;
+@include foundation-xy-grid-classes;
+@include foundation-flex-classes;
+@include foundation-text-alignment;
+@include foundation-visibility-classes;
